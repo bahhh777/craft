@@ -26,10 +26,5 @@ $aboutmy = 'Меня зовут Павел, я участник курса "PHP/
 	<p>Город: <strong><?= $mycity ?> </strong></p>
 	<p>О себе: <strong><?= $aboutmy ?></strong></p>
 </div>
-<?php
-$myname = 'Павел';
-$age = '28';
-$mycity = 'Москва';
-?>
 </body>
 </html>
