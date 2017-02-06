@@ -30,7 +30,6 @@ $aboutmy = 'Меня зовут Павел, я участник курса "PHP/
 $myname = 'Павел';
 $age = '28';
 $mycity = 'Москва';
-/*<a href="mailto:cayman777@mail.ru">*/
 ?>
 </body>
 </html>
